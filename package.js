@@ -1,6 +1,6 @@
 Package.describe({
   name: 'dinf:shell',
-  version: '1.0.0',
+  version: '1.1.0',
   // Brief, one-line summary of the package.
   summary: 'agrupa elementos básicos para criar a estrutura padrão de uma aplicação',
   // URL to the Git repository containing the source code for this package.
