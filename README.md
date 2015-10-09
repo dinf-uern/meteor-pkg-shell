@@ -1,0 +1,1 @@
+agrupa elementos básicos para criar a estrutura padrão de uma aplicação
